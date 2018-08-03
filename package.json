@@ -1,0 +1,22 @@
+{
+  "name": "cypress.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckenst/cypress.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckenst/cypress.io/issues"
+  },
+  "homepage": "https://github.com/ckenst/cypress.io#readme",
+  "devDependencies": {
+    "cypress": "^3.0.3"
+  }
+}
