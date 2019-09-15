@@ -4,8 +4,8 @@
   "description": "Playing around with [CypressIO](https://www.cypress.io/). The more tools we learn, the better chance we have at recognizing when they are valuable.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress:open": "cypress open"
+    "test": "cypress run",
+    "cypress": "cypress open"
   },
   "repository": {
     "type": "git",
