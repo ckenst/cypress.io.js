@@ -1,6 +1,7 @@
-/// <reference types="cypress" />
+import { TodoPage } from "../pageobjects/page-todo"
 
 describe('filtering', () =>{
+
     beforeEach(() => {
         cy.visit('http://todomvc-app-for-testing.surge.sh/')
         

@@ -1,5 +1,3 @@
-/// <reference types="cypress" />
-
 import { TodoPage } from "../pageobjects/page-todo"
 
 describe('todo actions', () => {
