@@ -1,6 +1,6 @@
 # Cypress
 
-A demo with [CypressIO](https://www.cypress.io/) for STARWEST2019 and [Testing Today's Web Applications workshop](https://github.com/ckenst/testing-todays-web-apps). The more tools we learn, the better chance we have at recognizing when they are valuable.  
+A demo with [CypressIO](https://www.cypress.io/). The more tools we learn, the better chance we have at recognizing when they are valuable.  
 
 ## How to run Interactively
 
