@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/ckenst/cypress.io#readme",
   "devDependencies": {
-    "cypress": "^3.4.1",
-    "lodash": ">=4.17.13"
+    "cypress": "^3.8.1",
+    "lodash": ">=4.17.13",
+    "prettier": "1.19.1"
   }
 }
