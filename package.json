@@ -20,7 +20,7 @@
   "devDependencies": {
     "cypress": "^6.6.0",
     "lodash": "^4.17.21",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "prettier": "2.2.1"
   }
 }
